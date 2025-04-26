@@ -1,0 +1,1 @@
+worker: python3 iris_bot.py
