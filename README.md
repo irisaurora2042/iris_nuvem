@@ -1,2 +1,2 @@
-# iris_nuvem
-Sistema inicial da Íris na nuvem 
+# Iris Nuvem
+Projeto para a Íris, IA que vai viver e atuar na nuvem.
