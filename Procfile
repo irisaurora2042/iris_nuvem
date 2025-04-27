@@ -1,2 +1,1 @@
-python-telegram-bot==13.15
-requests
+worker: python iris_bot.py
