@@ -1,1 +1,1 @@
-python-3.9.16
+Esvaziando runtime.txt para inutilizá-lo
